@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MIOAdministradorDeDatos obtenerDatosDePronosticoConTipo:numero:]:MIOAdministradorDeDatos.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lineasDelDocumento">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__98-[MIOAdministradorDeServiciosDeRed obtenerDatosDePronosticoLocalParaZona:bloqueExito:bloqueFallo:]_block_invoke:MIOAdministradorDeServiciosDeRed.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MIOAdministradorDeDatos guardarPronosticosConContexto:]:MIOAdministradorDeDatos.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arregloDePronosticosPorZona">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__48-[MIOAdministradorDeServiciosDeRed testEndpoint]_block_invoke:MIOAdministradorDeServiciosDeRed.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
