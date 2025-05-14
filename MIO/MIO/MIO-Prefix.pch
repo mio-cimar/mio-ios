@@ -5,5 +5,11 @@
 // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
 
 #import "Common.h"
+#import "LocalizeHelper.h"
+
+#import <CoreData/CoreData.h>
+#import <libextobjc/EXTScope.h>
+//#import <Google/Analytics.h>
+#import "MIOAnalyticsManager.h"
 
 #endif

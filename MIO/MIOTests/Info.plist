@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>cr.ac.ucr.miocimar.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -20,5 +20,13 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Usamos tu ubicación para proveer mejores pronósticos</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Usamos tu ubicación para proveer mejores pronósticos</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Usamos tu ubicación para proveer mejores pronósticos</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Usamos tu ubicación para proveer mejores pronósticos</string>
 </dict>
 </plist>

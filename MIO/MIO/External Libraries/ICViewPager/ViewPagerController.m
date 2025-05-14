@@ -919,7 +919,7 @@
         return nil;
     }
     
-    if ([[self.contents objectAtIndex:index] isEqual:[NSNull null]]) {
+    if ([[self.contents objectAtIndex:index] isEqual:[NSNull null]] || _activeContentIndex == index) {
         
         UIViewController *viewController;
         
